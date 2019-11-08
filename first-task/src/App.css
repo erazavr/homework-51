@@ -1,0 +1,17 @@
+
+.main {
+    width: 740px;
+    margin: 10px auto 0;
+    border: 5px solid purple;
+    box-shadow: 6px 5px 10px 2px #000000;
+    border-radius: 5px;
+
+}
+img {
+    border-bottom: 5px solid purple;
+}
+h1 {
+    text-align: center;
+    color: purple;
+    text-shadow: 3px 1px 0px  #000000;
+}
